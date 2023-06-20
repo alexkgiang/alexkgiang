@@ -6,8 +6,6 @@ I'm a software developer, passionate about coding and creating innovative soluti
 
 ## 📈 My GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkgiang&show_icons=true&theme=tokyonight)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewschoi&layout=compact&theme=tokyonight)](https://github.com/andrewschoi/github-readme-stats)
 
 ## 🔧 Technologies & Tools:
@@ -17,7 +15,6 @@ I'm a software developer, passionate about coding and creating innovative soluti
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
