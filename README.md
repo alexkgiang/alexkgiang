@@ -6,7 +6,7 @@ I'm a software developer, passionate about coding and creating innovative soluti
 
 ## 📈 My GitHub Stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewschoi&layout=compact&theme=tokyonight)](https://github.com/andrewschoi/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkgiang&layout=compact&theme=tokyonight)](https://github.com/alexkgiang/github-readme-stats)
 
 ## 🔧 Technologies & Tools:
 
